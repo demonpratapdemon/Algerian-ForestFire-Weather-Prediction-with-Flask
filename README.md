@@ -18,3 +18,8 @@ To access your flask application open new tab in and paste the url:
 https://{your_url}.pwskills.app:5000/
 ```
 
+The application is hosted on Azure Portal and the link is:
+```
+https://algerianforestfirepratap.azurewebsites.net/predictData
+```
+
